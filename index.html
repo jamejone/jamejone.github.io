@@ -15,10 +15,6 @@ title: Home
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
     {{ post.content }}
-
-    {% assign disqusurl = post.url %}
-    {% assign disqusidentifier = post.title %}
-    {% include disqus.html %}
   </article>
   {% endfor %}
 </div>
