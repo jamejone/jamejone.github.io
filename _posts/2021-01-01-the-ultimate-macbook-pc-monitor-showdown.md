@@ -21,7 +21,7 @@ So I set out to identify a monitor that meets all of my criteria. Specifically:
 * Upstream USB-B Port so that I can plug my keyboard and mouse into the monitor and pipe PC audio through monitor to the sound bar.
 * VESA mountable.
 * IPS panel. The viewing angles on my TN panel are so bad it interferes with my work so IPS is a must.
-* 27" or 34" ultrawide @ 1440p. Good for gaming and happens to be [the ideal non-retina DPI for macOS](https://bjango.com/articles/macexternaldisplays/). Full retina @ 5k instead of 1440p would be nice, but unfortunately I couldn't find such a monitor that meets all the minimum criteria.
+* 27" or 34" ultrawide @ 1440p. Good for gaming and happens to be [the ideal non-retina DPI for macOS](https://bjango.com/articles/macexternaldisplays/). Full retina @ 5k instead of 1440p would be nice, but unfortunately I couldn't find such a monitor that meets all the minimum criteria. Awkward DPIs are a deal-breaker due to scaling and "shimmering" effects mentioned in the linked post.
 
 Nice-to-haves:
 
