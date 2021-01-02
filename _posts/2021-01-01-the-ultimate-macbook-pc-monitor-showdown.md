@@ -11,7 +11,7 @@ Like many folks finding their way through the COVID-19 pandemic, I've [recently 
 
 Modern monitors come with a lot of interesting features. Did you know you can connect a MacBook to a monitor using a single USB-C cable and transmit USB, power, audio ***and*** video?
 
-Unfortunately, it's not as simple as simple as knowing whether a monitor supports USB-C. Many monitors support USB-C but don't have any sort of way to pipe the audio out from the monitor (for example, to a sound bar). And some monitors have USB-C and audio out, but only provide 15W of power.
+Unfortunately, it's not as simple as knowing whether a monitor supports USB-C. Many monitors support USB-C but don't have any sort of way to pipe the audio out from the monitor (for example, to a sound bar). And some monitors have USB-C and audio out, but only provide 15W of power.
 
 So I set out to identify a monitor that meets all of my criteria. Specifically:
 
