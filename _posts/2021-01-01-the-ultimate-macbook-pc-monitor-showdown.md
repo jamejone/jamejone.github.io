@@ -36,7 +36,7 @@ Here's what I found after about 15 hours of research:
 Model | Pros | Cons
 ----- | ---- | ----
 ViewSonic VP2771 | 27" 1440p, $200-$450 | 60hz, 60W USB-C
-LG 34WK95C-W | 34" UW 1440p, AS | 75hz, 60W USB-C, ~$1,000
+LG 34WK95C-W | 34" 1440p UW, AS | 75hz, 60W USB-C, ~$1,000
 LG 34WK95U | 34" 5k, 85W USB-C | 60hz, ~$1,300, awkward DPI
 Dell U3219Q | 32" 4k, 90W USB-C | 60hz, ~$800, awkward DPI
 BenQ PD3220U | 32" 4k, 85W USB-C | 60hz, ~$1,200, awkward DPI
