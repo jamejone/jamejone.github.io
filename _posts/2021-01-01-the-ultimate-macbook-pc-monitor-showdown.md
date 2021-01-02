@@ -36,7 +36,7 @@ Here's what I found after about 15 hours of research:
 Model | Pros | Cons
 ----- | ---- | ----
 ViewSonic VP2771 | $200-$450 | 60hz, 60W USB-C
-LG 34WK95C-W | 34" UW, 60W USB-C, AS | 75hz, ~$1,000
+LG 34WK95C-W | 34" UW, AS | 75hz, 60W USB-C, ~$1,000
 Dell U3219Q | 32" 4k, 90W USB-C | 60hz, ~$800
 LG 34WK95U | 34" 5k, 85W USB-C | 60hz, ~$1,300
 Razer Raptor 27 | AS, 144hz, HDR | 15W USB-C, No VESA mount
