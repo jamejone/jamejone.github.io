@@ -39,6 +39,7 @@ ViewSonic VP2771 | $200-$450 | 60hz, 60W USB-C
 LG 34WK95C-W | 34" UW, AS | 75hz, 60W USB-C, ~$1,000
 Dell U3219Q | 32" 4k, 90W USB-C | 60hz, ~$800
 LG 34WK95U | 34" 5k, 85W USB-C | 60hz, ~$1,300
+BenQ PD3220U | 32" 4k, 85W USB-C | 60hz, ~$1,200
 Razer Raptor 27 | AS, 144hz, HDR | 15W USB-C, No VESA mount
 Philips 346B1C | 34" UW, 90W USB-C, AS, $450 | 100hz, VA panel
 Acer Predator X34 S | 34" UW, **200hz** AS, 85W USB-C | Not available yet
