@@ -43,10 +43,12 @@ Razer Raptor 27 | AS, 144hz, HDR | 15W USB-C, No VESA mount
 Philips 346B1C | 34" UW, 90W USB-C, AS, $450 | 100hz, VA panel
 Acer Predator X34 S | 34" UW, **200hz** AS, 85W USB-C | Not available yet
 
-I can't guarantee this is an exhaustive list, but it might be. I left off monitors that lacked crucial features like an audio output or upstream USB-B port.
+I can't guarantee this is an exhaustive list, but it might be. I left off monitors that are no longer for sale or lack crucial features like an audio output or upstream USB-B port.
 
 As you can see, there's no ideal monitor except for the Acer Predator X34 S, which [isn't available in the US yet and currently costs ¥9999](https://www.tomshardware.com/news/acer-predator-x34-s-a-34-inch-200hz-nano-ips-curved-monitor-w-05ms-response-time) (roughly $1,500). In terms of what's available today, you ultimately need to choose whether you want to sacrifice refresh rate, VESA mounting, USB-C charging, or panel type.
 
 As luck would have it, I ended up snagging a ViewSonic VP2771 on eBay for $200 shipped. After all, I still have a 144hz TN panel that I can keep plugged into the gaming PC. It's not ideal but it'll work until I get my hands on that Acer.
 
 Let me know in the comments if you find a monitor that should be in this list. If you want to play League of Legends together you can find me under the summoner name JamesJonesJrJr.
+
+Stay safe out there, friends.
