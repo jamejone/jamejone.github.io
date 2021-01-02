@@ -20,7 +20,7 @@ So I set out to identify a monitor that meets all of my criteria. Specifically:
 * Some sort of audio output (almost always analog).
 * Upstream USB-B Port so that I can plug my keyboard and mouse into the monitor and pipe PC audio through monitor to the sound bar.
 * VESA mountable.
-* 27" 1440p, which happens to be [the ideal non-retina DPI for macOS](https://bjango.com/articles/macexternaldisplays/).
+* 27" 1440p, good for gaming and happens to be [the ideal non-retina DPI for macOS](https://bjango.com/articles/macexternaldisplays/).
 * IPS panel. The viewing angles on my TN panel are so bad it interferes with my work so IPS is a must.
 
 Nice-to-haves:
@@ -28,21 +28,20 @@ Nice-to-haves:
 * Adaptive sync (AS).
 * 144hz refresh rate. At 60hz I lose track of my mouse cursor in League of Legends and we can't have that!
 * 90W power delivery over USB-C.
-* 34" 1440p ultrawide (basically the same vertical height and DPI as a regular 27" widescreen). 32" 4k would also be acceptable.
+* 34" 1440p ultrawide (basically the same vertical height and DPI as a regular 27" widescreen). A pure retina display like a 27" 5k would also be acceptable, though I couldn't find one that meets all the minimum criteria.
 * Reasonable price.
 
 Here's what I found after about 15 hours of research:
 
 Model | Pros | Cons
 ----- | ---- | ----
-ViewSonic VP2771 | $200-$450 | 60hz, 60W USB-C
-LG 34WK95C-W | 34" UW, AS | 75hz, 60W USB-C, ~$1,000
-Dell U3219Q | 32" 4k, 90W USB-C | 60hz, ~$800
-LG 34WK95U | 34" 5k, 85W USB-C | 60hz, ~$1,300
-BenQ PD3220U | 32" 4k, 85W USB-C | 60hz, ~$1,200
-HP Z27 | $500 | 60hz, 27" 4k (awkward DPI)
+ViewSonic VP2771 | 27" 1440p, $200-$450 | 60hz, 60W USB-C
+LG 34WK95C-W | 34" UW 1440p, AS | 75hz, 60W USB-C, ~$1,000
+LG 34WK95U | 34" 5k, 85W USB-C | 60hz, ~$1,300, awkward DPI
+Dell U3219Q | 32" 4k, 90W USB-C | 60hz, ~$800, awkward DPI
+BenQ PD3220U | 32" 4k, 85W USB-C | 60hz, ~$1,200, awkward DPI
 Razer Raptor 27 | AS, 144hz, HDR | 15W USB-C, No VESA mount
-Philips 346B1C | 34" UW, 90W USB-C, AS, $450 | 100hz, VA panel
+Philips 346B1C | 34" 1440p UW, 90W, AS, $450 | 100hz, VA panel
 Acer Predator X34 S | 34" UW, **200hz** AS, 85W USB-C | Not available yet
 
 I can't guarantee this is an exhaustive list, but it might be. I left off monitors that are no longer for sale or lack crucial features like an audio output or upstream USB-B port.
