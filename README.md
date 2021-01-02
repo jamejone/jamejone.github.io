@@ -1,11 +1,11 @@
-## Install
+## Initial setup
 
 ```bash
 $ bundle install
 ```
 
-## Running
+## Run
 
 ```bash
-$ bundle exec jekyll serve
+$ bundle exec jekyll serve --livereload
 ```
