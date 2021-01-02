@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Ultimate Combination MacBook/PC Monitor Showdown
+title: The Ultimate MacBook+PC Monitor Showdown
 published: true
 description: In this post I share my experience in my quest to find the ideal USB-C monitor for my PC and Macbook Pro.
 ---
