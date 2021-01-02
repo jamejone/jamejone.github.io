@@ -20,15 +20,14 @@ So I set out to identify a monitor that meets all of my criteria. Specifically:
 * Some sort of audio output (almost always analog).
 * Upstream USB-B Port so that I can plug my keyboard and mouse into the monitor and pipe PC audio through monitor to the sound bar.
 * VESA mountable.
-* 27" 1440p. Good for gaming and happens to be [the ideal non-retina DPI for macOS](https://bjango.com/articles/macexternaldisplays/).
 * IPS panel. The viewing angles on my TN panel are so bad it interferes with my work so IPS is a must.
+* 27" or 34" ultrawide @ 1440p. Good for gaming and happens to be [the ideal non-retina DPI for macOS](https://bjango.com/articles/macexternaldisplays/). Full retina @ 5k instead of 1440p would be nice, but unfortunately I couldn't find such a monitor that meets all the minimum criteria.
 
 Nice-to-haves:
 
 * Adaptive sync (AS).
 * 144hz refresh rate. At 60hz I lose track of my mouse cursor in League of Legends and we can't have that!
 * 90W power delivery over USB-C.
-* 34" 1440p ultrawide (basically the same vertical height and DPI as a regular 27" widescreen). A pure retina display like a 27" 5k would also be acceptable, though I couldn't find one that meets all the minimum criteria.
 * Reasonable price.
 
 Here's what I found after about 15 hours of research:
