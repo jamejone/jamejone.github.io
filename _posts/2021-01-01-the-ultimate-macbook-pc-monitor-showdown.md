@@ -20,7 +20,7 @@ So I set out to identify a monitor that meets all of my criteria. Specifically:
 * Some sort of audio output (almost always analog).
 * Upstream USB-B Port so that I can plug my keyboard and mouse into the monitor and pipe PC audio through monitor to the sound bar.
 * VESA mountable.
-* 27" 1440p, which happens to be [the ideal DPI for macOS](https://bjango.com/articles/macexternaldisplays/).
+* 27" 1440p, which happens to be [the ideal non-retina DPI for macOS](https://bjango.com/articles/macexternaldisplays/).
 * IPS panel. The viewing angles on my TN panel are so bad it interferes with my work so IPS is a must.
 
 Nice-to-haves:
@@ -40,6 +40,7 @@ LG 34WK95C-W | 34" UW, AS | 75hz, 60W USB-C, ~$1,000
 Dell U3219Q | 32" 4k, 90W USB-C | 60hz, ~$800
 LG 34WK95U | 34" 5k, 85W USB-C | 60hz, ~$1,300
 BenQ PD3220U | 32" 4k, 85W USB-C | 60hz, ~$1,200
+HP Z27 | $500 | 60hz, 27" 4k (awkward DPI)
 Razer Raptor 27 | AS, 144hz, HDR | 15W USB-C, No VESA mount
 Philips 346B1C | 34" UW, 90W USB-C, AS, $450 | 100hz, VA panel
 Acer Predator X34 S | 34" UW, **200hz** AS, 85W USB-C | Not available yet
