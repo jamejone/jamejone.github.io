@@ -16,7 +16,7 @@ layout: default
       {{ post.content | reading_time | pluralize: "minute" }} to read
     </span>
 
-    {{ post.content | truncatewords: 60 }}
+    {{ post.content | truncatewords: 50 }}
 
     <a href="{{ site.baseurl }}{{ post.url }}">Continue reading</a>
   </article>
