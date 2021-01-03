@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               So long, and thanks for all the bits
 tagline:             an engineering blog
-url:                 https://jamejone.github.io/
+url:                 https://jamejone.github.io
 paginate:            3
 
 # Assets
@@ -23,7 +23,7 @@ author:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/jamejone/jamejone.github.io/
+  repo:              https://github.com/jamejone/jamejone.github.io
 
 # Plugins
 plugins:
