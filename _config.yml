@@ -31,3 +31,5 @@ plugins:
   - jekyll-gist
   - jekyll-sitemap
   - jekyll-seo-tag
+  - liquid_reading_time
+  - liquid_pluralize
