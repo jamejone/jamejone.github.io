@@ -4,14 +4,7 @@
   <meta name="description" content="{{ page.description | default: site.tagline }}">
   <meta name="author" content="James Jones">
   <meta name="theme-color" content="#313131"/>
-  
-  {% if page.title == "Home" %}
-    {% for post in paginator.posts limit:1 %}
-    <meta property="og:title" content="{{ post.title | default: site.title }}">
-    {% endfor %}
-  {% else %}
-    <meta property="og:title" content="{{ page.title | default: site.title }}">
-  {% endif %}
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
 
   <title>
     {% if page.title == "Home" %}
