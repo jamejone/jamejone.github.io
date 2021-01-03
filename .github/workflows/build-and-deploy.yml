@@ -13,6 +13,6 @@ jobs:
       - uses: helaili/jekyll-action@master
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
-          INPUT_JEKYLL_BUILD_OPTIONS: --watch
         with:
+          jekyll_build_options: --lsi
           target_branch: 'gh-pages'
