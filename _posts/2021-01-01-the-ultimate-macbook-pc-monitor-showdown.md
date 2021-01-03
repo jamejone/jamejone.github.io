@@ -13,9 +13,13 @@ Modern monitors come with a lot of interesting features. Did you know you can co
 
 Unfortunately, it's not as simple as knowing whether a monitor supports USB-C. Many monitors support USB-C but don't have any sort of way to pipe the audio out from the monitor (for example, to a sound bar). And some monitors have USB-C and audio out, but only provide 15W of power.
 
+With enough features, the monitor effectively acts as a KVM+audio, like so:
+
+![USB-C monitor diagram]({{ site.baseurl }}/public/usb-c-monitor-diagram.png)
+
 So I set out to identify a monitor that meets all of my criteria. Specifically:
 
-* Has a built-in KVM switch that lets me easily switch between my PC and my MacBook.
+* Has a built-in KVM switch that lets me easily switch between my PC and MacBook.
 * Provides at least 60W power over USB-C (the bare minimum to power a 16-inch MacBook Pro).
 * Some sort of audio output (almost always analog).
 * Upstream USB-B Port so that I can plug my keyboard and mouse into the monitor and pipe PC audio through the monitor to the sound bar.
