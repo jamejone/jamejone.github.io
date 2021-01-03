@@ -1,24 +1,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="{{ page.description | default: site.tagline }}">
-  <meta property="og:description" content="{{ page.description | default: site.tagline }}" />
-  <meta name="author" content="James Jones">
+  
+  {% seo %}
+
   <meta name="theme-color" content="#313131"/>
-
-  {% if page.title != "Home" %}
-  <meta property="og:type" content="article" />
-  {% endif %}
-
-  <meta property="og:title" content="{{ page.title | default: site.title }}">
-  <title>
-  {% if page.title == "Home" %}
-    {{ site.title }}
-  {% else %}
-    {{ page.title }}
-  {% endif %}
-  </title>
-
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png">
   <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
