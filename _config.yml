@@ -25,7 +25,8 @@ version:             2.0.0
 github:
   repo:              https://github.com/jamejone/jamejone.github.io/
 
-# Gems
-gems:
+# Plugins
+plugins:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-sitemap
