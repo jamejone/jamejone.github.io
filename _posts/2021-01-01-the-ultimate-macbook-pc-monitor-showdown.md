@@ -5,7 +5,7 @@ published: true
 description: In this post I share my experience in my quest to find the ideal USB-C monitor for my PC and MacBook Pro.
 ---
 
-![USB-C monitor setup]({{ site.baseurl }}/public/usb-c-monitor.jpg)
+{% picture public/usb-c-monitor.jpg %}
 
 Like many folks finding their way through the COVID-19 pandemic, I've [recently accepted a job](https://twitter.com/james_output/status/1320110838792003584) working permanently remote. So for the foreseeable future my workstation will be pulling double-duty for macOS-based software development with a MacBook Pro and Windows-based gaming on a PC.
 
