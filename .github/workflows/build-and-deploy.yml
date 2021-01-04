@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: sudo apt-get update
-      - run: sudo apt-get install --reinstall imagemagick
+      - run: sudo apt-get install imagemagick --fix-missing
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@master
         env:
