@@ -9,7 +9,7 @@ jobs:
   github-pages:
     runs-on: ubuntu-latest
     steps:
-      - run: convert --version
+      - run: sudo apt-get install imagemagick
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@master
         env:
