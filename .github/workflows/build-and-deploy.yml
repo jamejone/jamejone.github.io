@@ -9,6 +9,7 @@ jobs:
   github-pages:
     runs-on: ubuntu-latest
     steps:
+      - run: sudo apt-get update
       - run: sudo apt-get install --reinstall imagemagick
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@master
