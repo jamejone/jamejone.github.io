@@ -9,7 +9,7 @@ jobs:
   github-pages:
     runs-on: ubuntu-latest
     steps:
-      - run: sed -i '/<policy domain="path" rights="none" pattern="@\*"/d' /etc/ImageMagick-6/policy.xml
+      - run: sudo sed -i '/<policy domain="path" rights="none" pattern="@\*"/d' /etc/ImageMagick-6/policy.xml
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@master
         env:
