@@ -33,4 +33,3 @@ plugins:
   - liquid_reading_time
   - liquid_pluralize
   - jekyll_picture_tag
-  - jekyll-imagemagick
