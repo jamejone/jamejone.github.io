@@ -9,7 +9,7 @@ jobs:
   github-pages:
     runs-on: ubuntu-latest
     steps:
-      - run: sudo yum install ImageMagick
+      - run: sudo apt-get install libmagickwand-dev
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@master
         env:
