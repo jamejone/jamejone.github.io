@@ -17,4 +17,6 @@ jobs:
           jekyll_build_options: --lsi
           target_branch: 'gh-pages'
           pre_build_commands: |
-            wget https://raw.githubusercontent.com/discourse/discourse_docker/master/image/base/install-imagemagick && chmod +x install-imagemagick && ./install-imagemagick
+            wget https://raw.githubusercontent.com/discourse/discourse_docker/master/image/base/install-imagemagick
+            chmod +x install-imagemagick
+            ./install-imagemagick
