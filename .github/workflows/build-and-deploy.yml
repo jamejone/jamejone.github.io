@@ -7,14 +7,13 @@ on:
 
 jobs:
   github-pages:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-16.04
     steps:
       - run: sudo apt remove imagemagick imagemagick-6-common
       - run: |
           sudo wget https://raw.githubusercontent.com/discourse/discourse_docker/master/image/base/install-imagemagick
           sudo chmod +x install-imagemagick
           sudo ./install-imagemagick
-          sudo apt-get install libmagickwand-dev
 
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@master
