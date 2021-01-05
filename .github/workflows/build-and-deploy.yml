@@ -9,12 +9,6 @@ jobs:
   github-pages:
     runs-on: ubuntu-16.04
     steps:
-      - run: sudo apt remove imagemagick
-      - run: |
-          sudo wget https://raw.githubusercontent.com/discourse/discourse_docker/master/image/base/install-imagemagick
-          sudo chmod +x install-imagemagick
-          sudo ./install-imagemagick
-
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@master
         env:
@@ -22,3 +16,8 @@ jobs:
         with:
           jekyll_build_options: --lsi
           target_branch: 'gh-pages'
+      - run: |
+          sudo apt remove imagemagick
+          sudo wget https://raw.githubusercontent.com/discourse/discourse_docker/master/image/base/install-imagemagick
+          sudo chmod +x install-imagemagick
+          sudo ./install-imagemagick
