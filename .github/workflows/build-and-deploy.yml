@@ -9,7 +9,7 @@ jobs:
   github-pages:
     runs-on: ubuntu-16.04
     steps:
-      - run: sudo apt remove imagemagick imagemagick-6-common
+      - run: sudo apt remove imagemagick
       - run: |
           sudo wget https://raw.githubusercontent.com/discourse/discourse_docker/master/image/base/install-imagemagick
           sudo chmod +x install-imagemagick
