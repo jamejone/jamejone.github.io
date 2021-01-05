@@ -13,9 +13,9 @@ jobs:
       - run: |
           docker run \
           sudo apt remove imagemagick \
-          sudo wget https://raw.githubusercontent.com/discourse/discourse_docker/master/image/base/install-imagemagick \
-          sudo chmod +x install-imagemagick \
-          sudo ./install-imagemagick
+          && sudo wget https://raw.githubusercontent.com/discourse/discourse_docker/master/image/base/install-imagemagick \
+          && sudo chmod +x install-imagemagick \
+          && sudo ./install-imagemagick
       - uses: helaili/jekyll-action@master
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
