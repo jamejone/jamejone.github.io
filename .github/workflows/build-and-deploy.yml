@@ -10,15 +10,14 @@ jobs:
     runs-on: ubuntu-16.04
     steps:
       - uses: actions/checkout@v2
-        with: 
-          pre_build_commands: |
-            sudo apt remove imagemagick
-            sudo wget https://raw.githubusercontent.com/discourse/discourse_docker/master/image/base/install-imagemagick
-            sudo chmod +x install-imagemagick
-            sudo ./install-imagemagick
-      - uses: helaili/jekyll-action@master
+      - uses: jamejone/jekyll-action@master
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
         with:
           jekyll_build_options: --lsi
           target_branch: 'gh-pages'
+          pre_build_commands: |
+            sudo apt remove imagemagick
+            sudo wget https://raw.githubusercontent.com/discourse/discourse_docker/master/image/base/install-imagemagick
+            sudo chmod +x install-imagemagick
+            sudo ./install-imagemagick
