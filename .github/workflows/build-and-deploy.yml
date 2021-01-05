@@ -12,7 +12,7 @@ jobs:
       - run: sudo apt remove imagemagick imagemagick-6-common
       - run: |
           sudo wget https://raw.githubusercontent.com/discourse/discourse_docker/master/image/base/install-imagemagick
-          chmod +x install-imagemagick
+          sudo chmod +x install-imagemagick
           sudo ./install-imagemagick
 
       - uses: actions/checkout@v2
