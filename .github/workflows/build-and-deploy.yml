@@ -9,6 +9,7 @@ jobs:
   github-pages:
     runs-on: ubuntu-latest
     steps:
+      - run: sudo apt update
       - run: sudo apt remove imagemagick imagemagick-6-common
       - run: sudo apt build-dep imagemagick
       - run: sudo apt-get install checkinstall libwebp-dev libopenjp2-7-dev librsvg2-dev libde265-dev
