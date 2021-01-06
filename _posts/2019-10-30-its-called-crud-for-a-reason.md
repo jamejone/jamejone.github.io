@@ -3,9 +3,8 @@ layout: post
 title: It's called 'CRUD' for a reason
 published: true
 description: Most modern ways of doing things can be traced back to a historical problem that was solved using the path of least resistance.
+headerimage: public/transaction-addicted.jpg
 ---
-
-![Aww, did somebody get addicted to RDBMS transactions?]({{ site.baseurl }}/public/transaction-addicted.jpg)
 
 > *"To err is human, but to really foul things up you need a computer."*
 >

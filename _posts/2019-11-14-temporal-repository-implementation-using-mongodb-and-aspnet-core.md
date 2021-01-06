@@ -3,9 +3,8 @@ layout: post
 title: Temporal repository implementation using MongoDB and ASP.NET Core
 published: true
 description: In my last post we covered why CRUD patterns can be inherently difficult to scale. If you've reached that point, congratulations, it's time to upgrade your design.
+headerimage: public/back-to-the-future.jpg
 ---
-
-![Marty, you've gotta come back with me! Where? Back to the future!]({{ site.baseurl }}/public/back-to-the-future.jpg)
 
 [In my last post]({{ site.baseurl }}/2019/10/30/its-called-crud-for-a-reason/) we covered why CRUD patterns can be inherently difficult to scale. If you've reached that point, congratulations, it's time to upgrade your design. In this post we'll cover a different kind of data access pattern that's a little more complicated than CRUD, but offers some benefits that just might make it worthwhile.
 
@@ -76,11 +75,11 @@ To run the demo I'd recommend installing the following software:
 
 Next, [clone or download the source from my GitHub](https://github.com/jamejone/temporal-repository-pattern). You should be able to simply open the solution in Visual Studio and run the docker-compose project. In Kitematic, use Ctrl + R (or &#8984; + R) to refresh the container list. You should see the list of Docker containers that were created and you should observe that the MongoDB cluster has formed:
 
-![Kitematic shows that all the containers are running and the MongoDB cluster is formed.]({{ site.baseurl }}/public/temporal-repository-pattern-kitematic.png)
+{% picture public/temporal-repository-pattern-kitematic.png --alt 'Kitematic shows that all the containers are running and the MongoDB cluster is formed.' %}
 
 Next, use the Test Explorer in Visual Studio to run the integration tests and observe that they all pass:
 
-![Visual Studio shows that all the integration tests are passing.]({{ site.baseurl }}/public/temporal-repository-pattern-integration-tests.png)
+{% picture public/temporal-repository-pattern-integration-tests.png --alt 'Visual Studio shows that all the integration tests are passing.' %}
 
 I think I've said enough for one blog post. Go ahead, set some breakpoints and tinker around. If you'd like to connect to the local MongoDB cluster you can connect to it on the default port 27017. If you have MongoDB Compass you should be able to simply open it up and hit 'Connect'. 
 

@@ -3,9 +3,8 @@ layout: post
 title: The Ultimate MacBook+PC Monitor Showdown
 published: true
 description: In this post I share my experience in my quest to find the ideal USB-C monitor for my PC and MacBook Pro.
+headerimage: public/usb-c-monitor.jpg
 ---
-
-{% picture public/usb-c-monitor.jpg %}
 
 Like many folks finding their way through the COVID-19 pandemic, I've [recently accepted a job](https://twitter.com/james_output/status/1320110838792003584) working permanently remote. So for the foreseeable future my workstation will be pulling double-duty for macOS-based software development with a MacBook Pro and Windows-based gaming on a PC.
 
@@ -15,7 +14,7 @@ Unfortunately, it's not as simple as knowing whether a monitor supports USB-C. M
 
 With enough features, the monitor effectively acts as a KVM+audio, like so:
 
-![USB-C monitor diagram]({{ site.baseurl }}/public/usb-c-monitor-diagram.png)
+{% picture public/usb-c-monitor-diagram.png --alt USB-C Monitor Diagram %}
 
 So I set out to identify a monitor that meets all of my criteria. Specifically:
 

@@ -3,9 +3,8 @@ layout: post
 title: HTTP PUT is dead, long live HTTP PUT
 published: true
 description: Engineering client-server applications will always mean entertaining the possibility that clients will lag the server by at least one version.
+headerimage: public/hey-nice-api.jpg
 ---
-
-![Hey, nice API. It'd be a shame if you ever wanted to update it.]({{ site.baseurl }}/public/hey-nice-api.jpg)
 
 Absent some sort of alien quantum technology, engineering client-server applications will always mean entertaining the possibility that clients will lag the server by at least one version.
 

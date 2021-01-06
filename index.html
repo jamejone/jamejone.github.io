@@ -16,7 +16,11 @@ layout: default
       {{ post.content | reading_time | pluralize: "minute" }} to read
     </span>
 
-    {{ post.content | truncatewords: 50 }}
+    {% if post.headerimage %}
+      {% picture {{ post.headerimage }} %}
+    {% endif %}
+    
+    {{ post.content | truncatewords: 40 }}
 
     <a href="{{ site.baseurl }}{{ post.url }}">Continue reading</a>
   </article>

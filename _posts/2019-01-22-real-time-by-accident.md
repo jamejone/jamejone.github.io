@@ -2,9 +2,8 @@
 layout: post
 title: Real-time by accident
 published: true
+headerimage: public/office-space-meme-milton.jpg
 ---
-
-![If you could come in on Saturday, that would be great.]({{ site.baseurl }}/public/office-space-meme-milton.jpg)
 
 Wednesday, 8:55 AM.
 

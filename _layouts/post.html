@@ -10,6 +10,10 @@ layout: default
     {{ content | reading_time | pluralize: "minute" }} to read
   </span>
 
+  {% if page.headerimage %}
+    {% picture {{ page.headerimage }} %}
+  {% endif %}
+
   {{ content }}
 
   {% include utterances.html %}
