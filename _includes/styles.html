@@ -1,0 +1,6 @@
+{% capture include_to_scssify %}
+{% include styles.scss %}
+{% endcapture %}
+<style type="text/css">
+{{ include_to_scssify | scssify }}
+</style>

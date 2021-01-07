@@ -25,6 +25,9 @@ version:             2.0.0
 github:
   repo:              https://github.com/jamejone/jamejone.github.io
 
+picture: 
+  suppress_warnings: true
+
 # Plugins
 plugins:
   - jekyll-paginate
