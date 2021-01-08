@@ -13,7 +13,7 @@ layout: default
 
     <span class="post-date">
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>    &middot;
-      {{ post.content | reading_time | pluralize: "minute" }} to read
+      {{ post.content | reading_time }} min read
     </span>
 
     {% if post.headerimage %}
