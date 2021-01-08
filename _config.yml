@@ -38,3 +38,4 @@ plugins:
   - jekyll_picture_tag
   - jekyll-last-modified-at
   - jekyll-feed
+  - jekyll-minifier
