@@ -9,5 +9,5 @@ $ bundle install
 ## Run
 
 ```bash
-$ bundle exec jekyll serve --livereload
+$ sudo bundle exec jekyll serve --livereload
 ```

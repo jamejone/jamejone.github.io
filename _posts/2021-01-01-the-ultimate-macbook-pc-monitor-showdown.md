@@ -49,7 +49,7 @@ Acer Predator X34 S | 34" 1440p UW | **200hz**, AS, 85W | Not available (yet)
 
 I can't guarantee this is an exhaustive list, but it might be. I left off monitors that are no longer for sale or lack crucial features like an audio output or upstream USB-B port.
 
-As you can see, there's no ideal monitor except for the Acer Predator X34 S, which [isn't available in the US yet and currently costs ¥9999](https://www.tomshardware.com/news/acer-predator-x34-s-a-34-inch-200hz-nano-ips-curved-monitor-w-05ms-response-time) (roughly $1,500). In terms of what's available today, you ultimately need to choose whether you want to sacrifice refresh rate, VESA mounting, USB-C charging, or panel type.
+As you can see, there's no ideal monitor except for the Acer Predator X34 S, which [isn't available in the US yet and currently costs ¥9999](https://www.tomshardware.com/news/acer-predator-x34-s-a-34-inch-200hz-nano-ips-curved-monitor-w-05ms-response-time) (roughly $1,500 USD). There's a similar model with a lower refresh rate, the X34 GS, however I can only find it [for sale in Australia](https://online.acer.com.au/acer/store/acer-predator-x34-gs-curved-gsync-gaming-monitor) for approximately $1,342 USD. In terms of what's available today, you ultimately need to choose whether you want to sacrifice refresh rate, VESA mounting, USB-C charging, or panel type.
 
 As luck would have it, I ended up snagging a ViewSonic VP2771 on eBay for $200 shipped. After all, I still have a 144hz TN panel that I can keep plugged into the gaming PC. It's not ideal but it'll work until I get my hands on that Acer.
 
